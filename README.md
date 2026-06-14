@@ -64,23 +64,9 @@ Currently using Raspberry Pi Pico W, Arduino, ESP32, and Jetson Nano. I'm intere
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=immaculaterabbit&show_icons=true&theme=tokyonight" alt="immaculaterabbit's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immaculaterabbit&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📬 Contact Me
 
-* **Email:** [izdiharuddin89@gmail.com](mailto:izdiharuddin89@gmail.com)
-* **Instagram:** [@daviicie](https://instagram.com/daviicie)
-* **LinkedIn:** [Ardiansyah Rasyadan](https://www.linkedin.com/in/ardiansyah-rasyadan-39b79037a/)
+* **Email:** [syauqijannatann@gmail.com](mailto:syauqijannatann@gmail.com)
+* **Instagram:** [@zgzgzgidk]([https://instagram.com/daviicie](https://www.instagram.com/zgzgzgidk?igsh=NGo2c2E0MW5rOWgx))
+* **LinkedIn:** []
