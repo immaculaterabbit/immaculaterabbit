@@ -59,7 +59,7 @@ Currently using Raspberry Pi Pico W, Arduino, ESP32, and Jetson Nano. I'm intere
 ## 🚀 Current Projects
 
 * **Humanoid bot**
-* **YOLOv8 training & optimization** (also working with YOLOv7, Computer Vision, & TensorRT/Tensort)
+* **AI Trading bot - Rabbit Capital** 
 * **IoT server–client system** with API & WebSocket
 
 ---
